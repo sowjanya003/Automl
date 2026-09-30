@@ -1,0 +1,8 @@
+__pycache__/
+.env
+logs/
+commands.txt
+
+.vscode/
+maintenance_multidim_test.csv
+test.py
